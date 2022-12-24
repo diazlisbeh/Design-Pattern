@@ -1,0 +1,15 @@
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/bin/Debug/net6.0/Example
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/bin/Debug/net6.0/Example.deps.json
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/bin/Debug/net6.0/Example.runtimeconfig.json
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/bin/Debug/net6.0/Example.dll
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/bin/Debug/net6.0/Example.pdb
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.csproj.AssemblyReference.cache
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.AssemblyInfoInputs.cache
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.AssemblyInfo.cs
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.csproj.CoreCompileInputs.cache
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.dll
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/refint/Example.dll
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.pdb
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/Example.genruntimeconfig.cache
+/home/lisbethd/Class/Desing_Parttern/Factory_Mathod/Example/obj/Debug/net6.0/ref/Example.dll
