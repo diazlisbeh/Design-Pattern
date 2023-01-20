@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRkTiOK2XcsUuydvxtI/EEe1fxN23110ovvHpS1VRwcRqNFNjkEMkfKpnXFdQJGmN1Z/YYhwhVLtHMlxg1m8zw==",
+  "success": true,
+  "projectFilePath": "/home/lisbeth/Class/Desing_Parttern/Factory_Method/Example/Example.csproj",
+  "expectedPackageFiles": [
+    "/home/lisbeth/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

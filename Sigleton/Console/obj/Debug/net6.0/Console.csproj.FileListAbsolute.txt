@@ -1,0 +1,15 @@
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.csproj.AssemblyReference.cache
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.AssemblyInfoInputs.cache
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.AssemblyInfo.cs
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.csproj.CoreCompileInputs.cache
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/bin/Debug/net6.0/Console
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/bin/Debug/net6.0/Console.deps.json
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/bin/Debug/net6.0/Console.runtimeconfig.json
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/bin/Debug/net6.0/Console.dll
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/bin/Debug/net6.0/Console.pdb
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.dll
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/refint/Console.dll
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.pdb
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/Console.genruntimeconfig.cache
+/home/lisbeth/Class/Desing_Parttern/Sigleton/Console/obj/Debug/net6.0/ref/Console.dll

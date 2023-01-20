@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKl0f1Cm6jRKHjtEo8wpEUQHYe36uK6FZQhgUkQkl38XEv9yNvVWN6gNNUIYgv7THG6hl97l04AtpRno9wQeaw==",
+  "success": true,
+  "projectFilePath": "/home/lisbeth/Class/Desing_Parttern/Sigleton/Implementation/Implementation.csproj",
+  "expectedPackageFiles": [
+    "/home/lisbeth/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
